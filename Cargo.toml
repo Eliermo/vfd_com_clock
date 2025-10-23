@@ -1,0 +1,8 @@
+[package]
+name = "vfd_com_clock"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.42"
+escpos = { version = "0.17.0", features = ["serial_port"]}
