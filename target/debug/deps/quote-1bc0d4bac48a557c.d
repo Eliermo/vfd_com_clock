@@ -1,0 +1,11 @@
+/home/dasboris/Various_Projects/Rust/vfd_com_clock/target/debug/deps/libquote-1bc0d4bac48a557c.rmeta: /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/lib.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/ext.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/format.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/ident_fragment.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/to_tokens.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/runtime.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/spanned.rs
+
+/home/dasboris/Various_Projects/Rust/vfd_com_clock/target/debug/deps/quote-1bc0d4bac48a557c.d: /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/lib.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/ext.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/format.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/ident_fragment.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/to_tokens.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/runtime.rs /home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/spanned.rs
+
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/lib.rs:
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/ext.rs:
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/format.rs:
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/ident_fragment.rs:
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/to_tokens.rs:
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/runtime.rs:
+/home/dasboris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.40/src/spanned.rs:
